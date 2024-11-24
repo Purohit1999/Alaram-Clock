@@ -72,7 +72,7 @@ We welcome contributions to enhance the **Enhanced Alarm Clock** project! Please
 3. Commit your changes and push the branch.
 4. Open a pull request.
 
-This project follows the terms outlined in the [LICENSE](./LICENSE). Please make sure to review it before contributing.
+This project follows the terms outlined in the [LICENSE](https://github.com/Purohit1999/Alaram-Clock/blob/main/LICENSE). Please make sure to review it before contributing.
 
 ---
 
